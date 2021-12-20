@@ -56,6 +56,22 @@ IDI_ICON1               ICON                    "Save.ico"
 
 IDI_ICON2               ICON                    "Network.ico"
 
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// PNG
+//
+
+IDB_PNG1                PNG                     "C:\\Users\\Сергей Шугани\\source\\repos\\SystemProgramming\\WinAPI\\WinAPI\\Arrow2.png"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Cursor
+//
+
+IDC_CURSOR1             CURSOR                  "lightning-handwriting.cur"
+
 #endif    // Russian (Russia) resources
 /////////////////////////////////////////////////////////////////////////////
 
